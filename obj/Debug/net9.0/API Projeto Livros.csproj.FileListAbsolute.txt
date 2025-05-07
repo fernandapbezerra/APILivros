@@ -160,3 +160,10 @@ C:\Users\fic\source\repos\API Projeto Livros\API Projeto Livros\obj\Debug\net9.0
 C:\Users\fic\source\repos\API Projeto Livros\API Projeto Livros\obj\Debug\net9.0\API Projeto Livros.pdb
 C:\Users\fic\source\repos\API Projeto Livros\API Projeto Livros\obj\Debug\net9.0\API Projeto Livros.genruntimeconfig.cache
 C:\Users\fic\source\repos\API Projeto Livros\API Projeto Livros\obj\Debug\net9.0\ref\API Projeto Livros.dll
+C:\Users\fic\source\repos\API Projeto Livros\API Projeto Livros\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\fic\source\repos\API Projeto Livros\API Projeto Livros\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fic\source\repos\API Projeto Livros\API Projeto Livros\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fic\source\repos\API Projeto Livros\API Projeto Livros\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fic\source\repos\API Projeto Livros\API Projeto Livros\obj\Debug\net9.0\API Projeto Livros.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fic\source\repos\API Projeto Livros\API Projeto Livros\obj\Debug\net9.0\API Projeto Livros.sourcelink.json
+C:\Users\fic\source\repos\API Projeto Livros\API Projeto Livros\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
